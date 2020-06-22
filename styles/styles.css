@@ -1,0 +1,44 @@
+body{
+    background-color: darkslategrey;
+}
+header{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+.encounter_image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    box-shadow: black;
+    width: 300px;
+    height: 200px;
+}
+
+p, a{
+    font-family: cursive;
+}
+
+.encounter{
+    border-style: ridge;
+    border-width: 10px;
+    text-align: center;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.options{
+    text-align: center;
+}
+
+.option{
+    padding-left: 20px;
+}
+
+
+
